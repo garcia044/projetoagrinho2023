@@ -1,2 +1,2 @@
-Site do Colégio Estadual Olavo Bilac - Amaporã PR
-Repositório de atualização do Site do Colégio Olavo Bilac - E.F.M 
+Repositório do Projeto Agrinho 2023
+Ações que transformam o mundo!
